@@ -1,0 +1,54 @@
+#container{
+    height:800px;
+}
+#sidebar1{
+    float:left;
+    width:10%;
+    height:100%;
+    background-color: #EAF1FB;
+}
+#sidebar2{
+    float:left;
+    width:20%;
+    background-color: #C2E7FF;
+    height:100%;
+}
+#inbox{
+    float:left;
+    width:65%;
+    height:100%;
+    background-color: #FFFFFF;
+    overflow-y: scroll;
+}
+#headerinbox{
+    height:8%;
+    border:1px solid black;
+}
+#headerinbox .part1{
+   float:left;
+   height:100%;
+   width:70%;
+   border:1px solid red;
+}
+#headerinbox .part2{
+    float:left;
+    width:14%;
+    height:100%;
+    border:1px solid red;
+}
+#headerinbox .part3{
+    float:left;
+    height:100%;
+    width:15%;
+    border:1px solid red;
+}
+#content{
+    height: 92%;
+    border:1px solid black;
+}
+#sidebar3{
+    float:left;
+    width:5%;
+    height:100%;
+    background-color: #EAF1FB;
+}
