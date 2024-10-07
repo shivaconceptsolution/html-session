@@ -1,0 +1,19 @@
+#xyz{
+    height: 500px;
+    width:500px;
+    background-color: blue;;
+    float:left;
+    text-align: center;
+    color:white;
+    font-size: 50px;
+}
+
+#xyz1{
+    height: 500px;
+    width:500px;
+    background-color: blue;;
+    float:right;
+    text-align: center;
+    color:white;
+    font-size: 50px;
+}
